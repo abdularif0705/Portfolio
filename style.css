@@ -3,13 +3,14 @@
 body {
   display: flex;
   flex-direction: column;
+  font-size: 3em;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   padding-bottom: 2rem;
   margin: 5%;
-  /* background-image: url("https://64.media.tumblr.com/9b6fadcc3c7120f5872e252ca2633c61/tumblr_pf9fi697x21qeyvpto1_500.gifv"); */
-  background-image: url("https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif");
+  background-image: url("https://64.media.tumblr.com/9b6fadcc3c7120f5872e252ca2633c61/tumblr_pf9fi697x21qeyvpto1_500.gifv");
+  /* background-image: url("https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif"); */
 
   background-repeat: no-repeat;
   background-size: cover;
